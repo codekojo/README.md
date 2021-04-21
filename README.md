@@ -22,4 +22,4 @@
 
 [website]: https://codewithkojo.com
 [twitter]: https://twitter.com/kojoswic
-[linkedin]: https://linkedin.com/in/agyemangduahc
+[linkedin]: https://www.linkedin.com/in/agyemangduah/
